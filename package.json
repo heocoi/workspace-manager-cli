@@ -1,6 +1,6 @@
 {
     "name": "wkm",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Manage your workspace (projects, repositories ...) from CLI.",
     "main": "cli.js",
     "author": "heocoi",
