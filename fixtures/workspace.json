@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "name": "projectA",
+      "repos": [
+        {
+          "name": "repositoryAA",
+          "path": "/tmpAA"
+        }
+      ]
+    },
+    {
+      "name": "projectB",
+      "repos": [
+        {
+          "name": "repositoryBA",
+          "path": "/tmpBA"
+        },
+        {
+          "name": "repositoryBB",
+          "path": "/tmpBB"
+        },
+        {
+          "name": "repositoryZ",
+          "path": "/tmpZ"
+        }
+      ]
+    },
+    {
+      "name": "projectC",
+      "repos": [
+        {
+          "name": "repositoryCA",
+          "path": "/tmpCA"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "project": "projectB",
+    "editor": "/usr/local/bin/code"
+  }
+}
