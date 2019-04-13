@@ -1,6 +1,6 @@
 {
     "name": "wkm",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "description": "Manage your workspace (projects, repositories ...) from CLI.",
     "main": "cli.js",
     "author": "heocoi",
@@ -12,8 +12,8 @@
     },
     "dependencies": {
         "cli-table": "^0.3.1",
+        "commander": "^2.20.0",
         "lodash": "^4.17.11",
-        "meow": "^5.0.0",
         "shelljs": "^0.8.3"
     },
     "bin": {

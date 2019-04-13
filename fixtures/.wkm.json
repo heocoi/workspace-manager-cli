@@ -34,10 +34,18 @@
           "path": "/tmpCA"
         }
       ]
+    },
+    {
+      "name": "projectD",
+      "repos": []
+    },
+    {
+      "name": "projectE",
+      "repos": []
     }
   ],
   "config": {
-    "project": "projectB",
+    "project": "projectA",
     "editor": "/usr/local/bin/code"
   }
 }
